@@ -33,10 +33,10 @@
     "claude-opus-5"
   ],
   "code_repository": "https://github.com/lieblingszz/team28-tier3-secondary-2",
-  "code_doi": "https://doi.org/10.5281/zenodo.22211939",
+  "code_doi": "https://doi.org/10.5281/zenodo.22211938",
   "escrow_doi": null,
   "disclosure_class": "A",
-  "zenodo_doi": "https://doi.org/10.5281/zenodo.22211939",
+  "zenodo_doi": "https://doi.org/10.5281/zenodo.22211938",
   "prediction_files": [
     {
       "file": "predictions/team_28_T3_secondary-2_v1.csv",
