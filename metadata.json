@@ -27,19 +27,19 @@
   "abstract": "",
   "license": "CC-BY-4.0",
   "tier": 3,
-  "entry": "secondary-3",
+  "entry": "secondary-2",
   "approach_family": "direct forecast, single model, literature-conditioned, ensemble of 5 runs (median)",
   "models": [
     "claude-opus-5"
   ],
-  "code_repository": "https://github.com/MarciaFG/team28-t3-silicon-secondary3-claudeopus5",
+  "code_repository": "https://github.com/lieblingszz/team28-tier3-secondary-2",
   "code_doi": null,
-  "disclosure_class": "A",
   "escrow_doi": null,
+  "disclosure_class": "A",
   "zenodo_doi": null,
   "prediction_files": [
     {
-      "file": "predictions/team_28_T3_secondary-3_v1.csv",
+      "file": "predictions/team_28_T3_secondary-2_v1.csv",
       "sha256": "ae461917e1643981f7f4782953a803550a72b621b946f687978d8a7426b482f8"
     }
   ],

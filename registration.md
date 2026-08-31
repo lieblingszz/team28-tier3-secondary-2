@@ -36,7 +36,7 @@ sections (B) once per model. See the call's *Disclosure policy* for escrow rules
   3. Archive every raw API response under `simulation/logs/`.
   4. Aggregate: per intervention × outcome, take the median of the 5 forecasts (deterministic
      JavaScript, no LLM).
-  5. Write `predictions/team_28_T3_secondary-3_v1.csv`; fingerprint with `make manifest`;
+  5. Write `predictions/team_28_T3_secondary-2_v1.csv`; fingerprint with `make manifest`;
      validate with `make check`.
 - **0.5 Coverage ★** — number of respondents/cells/estimates; mapping to conditions. Full coverage is required: every submission predicts **all 16 interventions and all 13 outcomes** (partial coverage is not accepted). Confirm here:
   Confirmed: 208 ATE estimates = 16 interventions × 13 outcomes, full coverage, no `NA` cells.
